@@ -1,0 +1,8 @@
+linuxinitialize.c.o: \
+ C:/PROGRA~1/MATLAB/R2018b/toolbox/target/codertarget/rtos/src/linuxinitialize.c \
+ C:/PROGRA~1/MATLAB/R2018b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h \
+ R:/CPET-563/finalProject/mexFiles/ads1015/ads1015_Test_ert_rtw/MW_custom_RTOS_header.h
+
+C:/PROGRA~1/MATLAB/R2018b/toolbox/target/codertarget/rtos/inc/linuxinitialize.h:
+
+R:/CPET-563/finalProject/mexFiles/ads1015/ads1015_Test_ert_rtw/MW_custom_RTOS_header.h:

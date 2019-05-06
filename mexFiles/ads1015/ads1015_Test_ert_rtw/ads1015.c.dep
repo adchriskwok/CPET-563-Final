@@ -1,0 +1,91 @@
+ads1015.c.o: ../ads1015.c \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_compcond.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h \
+ R:/CPET-563/finalProject/mexFiles/ads1015/ads1015_Test_ert_rtw/rtwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/extern/include/tmwtypes.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_types_def.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_matlogging.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_extmode.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sysran_types.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_sample_time_defs.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/solver_zc.h \
+ C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/rt_matrx.h \
+ C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/rt_mxclassid.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/slexec_block_runtime_service.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_def.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_common_types_def.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_fixpt.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_datatype_access.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_report_types.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_debug.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_internal.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_implement.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_prodhwdevicetype.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simulink_solver_api.h \
+ C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc.h \
+ C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/sfcn_bridge.h \
+ C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/cg_sfun.h
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_compcond.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h:
+
+R:/CPET-563/finalProject/mexFiles/ads1015/ads1015_Test_ert_rtw/rtwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/extern/include/tmwtypes.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_types.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_types_def.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_matlogging.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_extmode.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_continuous.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/rtw_solver.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sysran_types.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_sample_time_defs.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/solver_zc.h:
+
+C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/rt_matrx.h:
+
+C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/rt_mxclassid.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/slexec_block_runtime_service.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_def.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_common_types_def.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_fixpt.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_datatype_access.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_report_types.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_debug.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_internal.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc_implement.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/sl_prodhwdevicetype.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simulink_solver_api.h:
+
+C:/PROGRA~1/MATLAB/R2018b/simulink/include/simstruc.h:
+
+C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/sfcn_bridge.h:
+
+C:/PROGRA~1/MATLAB/R2018b/rtw/c/src/cg_sfun.h:
